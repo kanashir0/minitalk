@@ -6,12 +6,11 @@
 /*   By: gyasuhir <gyasuhir@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/03/02 12:57:04 by gyasuhir          #+#    #+#             */
-/*   Updated: 2025/03/16 12:15:25 by gyasuhir         ###   ########.fr       */
+/*   Updated: 2025/03/16 13:23:49 by gyasuhir         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "minitalk.h"
-//TODO: change printf to ft_printf 
 
 int	ack = 0;
 
