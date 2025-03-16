@@ -1,0 +1,6 @@
+libft.a
+*.out
+*.o
+*.h.gch
+libftTester/
+libft-war-machine/
